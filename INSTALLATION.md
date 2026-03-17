@@ -12,5 +12,4 @@ conda activate your-env-name
 pip install -e .
 
 ## Usage
-python cq.py --prompt "this is your prompt --verbose
-
+python your_script.py --input data.csv --output results/
