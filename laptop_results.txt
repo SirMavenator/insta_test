@@ -1,0 +1,43 @@
+Page title: Amazon.com : laptops
+Found 16 product cards
+
+Showing info for 5 products ...
+[1] HP 14 Laptop, Intel Celeron N4020, 4 GB RAM, 64 GB Storage, 14-inch Micro-edge HD Display, Windows 11 Home, Thin & Portable, 4K Graphics, One Year of Microsoft 365 (14-dq0040nr, Snowflake White)
+    Price:   $171.4
+   Rating:  None (None reviews)
+     ASIN:    B0947BJ67M
+      URL:     None
+Image URL:     https://m.media-amazon.com/images/I/815uX7wkOZS._AC_UY218_.jpg
+Predicted Category: Budget
+
+[2] Apple 2026 MacBook Neo 13-inch Laptop with A18 Pro chip: Built for AI and Apple Intelligence, Liquid Retina Display, 8GB Unified Memory, 512GB SSD Storage, 1080p FaceTime HD Camera, Touch ID; Indigo
+    Price:   $699.0
+   Rating:  None (None reviews)
+     ASIN:    B0GR6JMY9W
+      URL:     None
+Image URL:     https://m.media-amazon.com/images/I/619PNoEsnSL._AC_UY218_.jpg
+Predicted Category: Professional
+
+[3] HP Notebook 15.6 FHD Laptop Computer with Microsoft Office 365, 8GB DDR4 RAM, 750GB Storage (250GB SSD + 500GB ext), Intel 4-Core N100 CPU, Windows 11 Home, Silver
+    Price:   $349.99
+   Rating:  None (None reviews)
+     ASIN:    B0GPQM6SGP
+      URL:     None
+Image URL:     https://m.media-amazon.com/images/I/71su0bOgiSL._AC_UY218_.jpg
+Predicted Category: Budget
+
+[4] HP Home and Student Essential Laptop with Microsoft 365-1.1TB Storage - 8GB RAM - Intel Inside | Anti-Glare Display, 64GB SSD and 1TB Cloud Storage, Fast Charge and 12hrs Battery, no Mouse
+    Price:   $269.97
+   Rating:  None (None reviews)
+     ASIN:    B0G228KLHV
+      URL:     None
+Image URL:     https://m.media-amazon.com/images/I/71xTwcYJoCL._AC_UY218_.jpg
+Predicted Category: Budget
+
+[5] acer Nitro V Gaming Laptop | Intel Core i5-13420H Processor | NVIDIA GeForce RTX 4050 Laptop GPU | 15.6" FHD IPS 165Hz Display | 8GB DDR5 | 512GB Gen 4 SSD | Wi-Fi 6 | Backlit KB | ANV15-52-586Z
+    Price:   $649.99
+   Rating:  None (None reviews)
+     ASIN:    B0F5KTGDS9
+      URL:     None
+Image URL:     https://m.media-amazon.com/images/I/71gXelI8upL._AC_UY218_.jpg
+Predicted Category: Gaming

@@ -1,0 +1,33 @@
+Page title: Amazon.com : samsung tablets
+Found 16 product cards
+
+Showing info for 5 products ...
+[1] Samsung
+    Price:   $249.99
+    Rating:  None (None reviews)
+    ASIN:    B0FVXMHHRP
+    URL:     None
+
+[2] Samsung
+    Price:   $299.99
+    Rating:  None (None reviews)
+    ASIN:    B0FVXRG5W9
+    URL:     None
+
+[3] Samsung
+    Price:   $179.99
+    Rating:  None (None reviews)
+    ASIN:    B0FNNRLMVW
+    URL:     None
+
+[4] Samsung
+    Price:   $499.99
+    Rating:  None (None reviews)
+    ASIN:    B0DVZY44YR
+    URL:     None
+
+[5] Samsung
+    Price:   $159.99
+    Rating:  None (None reviews)
+    ASIN:    B0CLFH7CCV
+    URL:     None

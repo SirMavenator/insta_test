@@ -1,5 +1,5 @@
-## try4.py 
-This is a dummy script to demonstrate that I can open Chrome
+## get_product_info.py
+Query amazon.com for product info
 
 
 ## Installation
@@ -16,5 +16,5 @@ conda activate your-env-name
 pip install -e .
 
 ## Usage
-python cq.py --prompt "this is your prompt --verbose
+python get_product_info.py
 
