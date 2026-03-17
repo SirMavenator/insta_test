@@ -25,7 +25,7 @@ driver.get('https://www.google.com')
 
 
 print(driver.title)          # prints "Google"
-driver.save_screenshot('screenshot_from_try4.png')
+driver.save_screenshot('screenshot_from_try4a.png')
 
 
 print('Done!')

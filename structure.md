@@ -1,7 +1,7 @@
 ## Minimal File Structure for GitHub
 ```
 your-project/
-+-- your_script.py        # or a package dir if it grows
++-- try4.py        # or a package dir if it grows
 +-- pyproject.toml        # dependencies + metadata
 +-- environment.yml       # optional, for conda users
 +-- README.md             # usage instructions (critical)

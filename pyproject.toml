@@ -3,11 +3,12 @@ requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "console-query"
+name = "try4.py"
 version = "0.1.0"
-description = "A console query tool using Google Gemini"
+description = "InstaPermit Coding Test"
 requires-python = ">=3.10"
 dependencies = [
-    "google-genai>=1.0.0",
-    "python-dotenv>=1.0.0",
+    "httpx==0.28.1",
+    "selenium==4.41.0",
+    "webdriver-manager==4.0.2",
 ]

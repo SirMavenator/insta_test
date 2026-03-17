@@ -1,3 +1,7 @@
+## try4.py 
+This is a dummy script to demonstrate that I can open Chrome
+
+
 ## Installation
 
 **pip:**
